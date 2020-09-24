@@ -1,0 +1,5 @@
+Testeando...
+
+01 - Crie um sistema que solicite a sala, nome, e a nota de cada aluno
+02 - Exiba a média de cada aluno.
+03 - Mude os alunos de sala.
